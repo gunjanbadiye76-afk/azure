@@ -1,0 +1,9 @@
+{
+	"name": "dhurandhar",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d4099ae-3270-40fb-a61b-a4f2f5496411",
+		"tenantId": "4fa37492-12f2-4ddd-b276-396fe72b3883"
+	}
+}
